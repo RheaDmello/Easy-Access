@@ -1,6 +1,6 @@
-# East Access
+# Easy Access
 
-**East Access** is a web platform designed to provide first-year students of **NMAM Institute of Technology, Nitte, Karkala**, with easy access to previous years' question papers. The website is built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap** for a seamless and responsive user experience.
+**Easy Access** is a web platform designed to provide first-year students of **NMAM Institute of Technology, Nitte, Karkala**, with easy access to previous years' question papers. The website is built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap** for a seamless and responsive user experience.
 
 ---
 
