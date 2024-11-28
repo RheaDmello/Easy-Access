@@ -13,7 +13,7 @@
 
 ## Features
 
-- **Organized Repository**: Question papers categorized by subjects
+- **Organized Repository**: Question papers categorized by subjects.
 - **Responsive Design**: Fully compatible with desktops, tablets, and mobile devices.
 - **Search Functionality**: Quickly find the required papers.
 - **User-Friendly Interface**: Simple and intuitive navigation for easy access.
