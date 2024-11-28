@@ -52,7 +52,7 @@
   - JavaScript
   - Bootstrap 5
 - **Tools**:
-  - FontAwesome for icons
+  
   - Google Fonts for typography
 
 
